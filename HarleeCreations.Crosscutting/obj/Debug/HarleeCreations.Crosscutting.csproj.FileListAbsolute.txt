@@ -1,0 +1,6 @@
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\bin\Debug\HarleeCreations.Crosscutting.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\bin\Debug\HarleeCreations.Crosscutting.pdb
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\obj\Debug\HarleeCreations.Crosscutting.csproj.AssemblyReference.cache
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\obj\Debug\HarleeCreations.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\obj\Debug\HarleeCreations.Crosscutting.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Crosscutting\obj\Debug\HarleeCreations.Crosscutting.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wuoDDoKLh4m2IMoOrFerdEc8Kecd4/tLnn7K8QyRCKRrycOGK2dSlYKm1y9fgBpHtYlVetrcRJ0voajFwf3/SA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\HarleeCreations\\harlee-creations\\HarleeCreations.API\\HarleeCreations.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hjohnson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

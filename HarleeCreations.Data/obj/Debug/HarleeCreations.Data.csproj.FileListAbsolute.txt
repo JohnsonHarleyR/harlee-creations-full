@@ -1,0 +1,9 @@
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\bin\Debug\HarleeCreations.Data.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\bin\Debug\HarleeCreations.Data.pdb
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\bin\Debug\HarleeCreations.Crosscutting.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\bin\Debug\HarleeCreations.Crosscutting.pdb
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\obj\Debug\HarleeCreations.Data.csproj.AssemblyReference.cache
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\obj\Debug\HarleeCreations.Data.csproj.CoreCompileInputs.cache
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\obj\Debug\HarleeCreations.Data.csproj.CopyComplete
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\obj\Debug\HarleeCreations.Data.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Data\obj\Debug\HarleeCreations.Data.pdb
