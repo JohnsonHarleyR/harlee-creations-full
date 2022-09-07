@@ -24,3 +24,5 @@ C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\bin\Debug\netcoreap
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\bin\Debug\netcoreapp3.1\HarleeCreations.Domain.pdb
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\bin\Debug\netcoreapp3.1\HarleeCreations.Data.pdb
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\obj\Debug\netcoreapp3.1\HarleeCreations.API.csproj.CopyComplete
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.API\bin\Debug\netcoreapp3.1\Dapper.xml

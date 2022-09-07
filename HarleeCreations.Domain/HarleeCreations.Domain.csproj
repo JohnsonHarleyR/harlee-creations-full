@@ -41,11 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Orchestrators\ThemeOrchestrator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Orchestrators\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\HarleeCreations.Crosscutting\HarleeCreations.Crosscutting.csproj">
       <Project>{53b3db0c-1c62-43f7-b0ea-4a75ff3b3bf0}</Project>

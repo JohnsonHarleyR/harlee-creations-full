@@ -9,3 +9,5 @@ C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\obj\Debug\Harlee
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\obj\Debug\HarleeCreations.Domain.csproj.CopyComplete
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\obj\Debug\HarleeCreations.Domain.dll
 C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\obj\Debug\HarleeCreations.Domain.pdb
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\bin\Debug\Dapper.dll
+C:\Code\HarleeCreations\harlee-creations\HarleeCreations.Domain\bin\Debug\Dapper.xml
